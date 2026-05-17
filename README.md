@@ -84,11 +84,11 @@ Building intelligent systems, scalable APIs, and production-ready AI application
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=durgasairohan-cpu&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgasairohan-cpu&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -106,11 +106,9 @@ Building intelligent systems, scalable APIs, and production-ready AI application
 
 # 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YourLinkedInLink)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-durga-sai-rohan-94334a291/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](YourPortfolioLink)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourEmail)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durgasairohan@gmail.com)
 
 ---
 
