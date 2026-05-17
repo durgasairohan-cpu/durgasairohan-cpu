@@ -84,14 +84,10 @@ Building intelligent systems, scalable APIs, and production-ready AI application
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durgasairohan-cpu&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=durgasairohan-cpu&show_icons=true&theme=github_dark&cache_seconds=1800"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgasairohan-cpu&layout=compact&theme=github_dark&cache_seconds=1800"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgasairohan-cpu&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 # 🔥 Current Focus
 
