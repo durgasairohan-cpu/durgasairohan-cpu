@@ -84,11 +84,11 @@ Building intelligent systems, scalable APIs, and production-ready AI application
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durgasairohan-cpu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Durga sai Rohan&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgasairohan-cpu&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durga sai Rohan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
