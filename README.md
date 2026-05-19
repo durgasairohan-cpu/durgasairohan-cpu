@@ -100,26 +100,6 @@ Building intelligent systems, scalable APIs, and production-ready AI application
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=durgasairohan-cpu&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180em"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=durgasairohan-cpu&theme=tokyonight&hide_border=true" 
-    height="180em"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgasairohan-cpu&layout=compact&theme=tokyonight&hide_border=true" 
-  />
-</p>
-
 # 🔥 Current Focus
 
 - AI Agents  
